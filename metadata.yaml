@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
     - http://fr.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24573#Projet-d-une-loi-portant-d-fense-d-apprendre---lire-aux-femmes
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2008-02-11'
 gutenberg_type: Text
