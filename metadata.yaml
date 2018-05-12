@@ -1,0 +1,35 @@
+_repo: Projet-d-une-loi-portant-d-fense-d-apprendre---lire-aux-femmes_24573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maréchal, Sylvain
+    aliases:
+    - Marechal, Sylvain
+    - Maréchal, Pierre Sylvain
+    birthdate: 1750
+    deathdate: 1803
+    gutenberg_agent_id: '25676'
+    url: http://www.gutenberg.org/2009/agents/25676
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
+    - http://fr.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2008-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24573'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Education -- France -- History -- 19th century'
+- !lcc 'LC'
+- !lcc 'HQ'
+- !lcsh 'Women''s rights -- France -- History -- 19th century'
+title: Projet d'une loi portant défense d'apprendre à lire aux femmes
+url: http://www.gutenberg.org/ebooks/24573
